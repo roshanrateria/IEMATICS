@@ -1,17 +1,11 @@
 # IEMATICS
 
-## Overview
-
-No repository description is currently provided.
+A static HTML website for IEMATICS, packaged with its supporting image assets.
 
 ## Technology
 
-HTML
+- HTML
 
-## Repository contents
+## Run
 
-`download.png`, `index.html`, `logo.png`, `logo4.png`, `logo6.png`, `logo7.png`, `sds.png`
-
-## Notes
-
-This README documents the repository using metadata and files visible in the repository. See the source tree for the current implementation.
+Open `index.html` in a browser or serve the repository with any static web server.
